@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Cor da categoria java -->
+    <color name="Java_Categoria">#FF8000</color>
+    <!--Cor da categoria dotnet -->
+    <color name="DotNet_Categoria">#0101DF</color>
+    <!--Cor da categoria angular -->
+    <color name="AngularJS_Categoria">#FF0000</color>
+    <!--Cor da categoria react-->
+    <color name="React_Categoria">#088A08</color>
+    <!--Cor da categoria python -->
+    <color name="Python_Categoria">#4C0B5F</color>
+</resources>

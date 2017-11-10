@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Linguagens Programacao</string>
+    <!--nome da categoria java -->
+    <string name="java__categoria">Java</string>
+    <!--nome da categoria dotnet -->
+    <string name="dotnet_categoria">DotNet</string>
+    <!--nome da categoria angular -->
+    <string name="angularjs_categoria">Angular JS</string>
+    <!--nome da categoria react -->
+    <string name="react_categoria">React</string>
+    <!--nome da categoria python -->
+    <string name="python_categoria">Python</string>
+</resources>
